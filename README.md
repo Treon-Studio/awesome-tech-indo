@@ -84,6 +84,7 @@ Daftar perusahaan teknologi di Indonesia dengan repository GitHub publik:
 - [Kitabisa](https://github.com/kitabisa)
 - [Raizora](https://github.com/raizora-id)
 - [RedAntColony](https://github.com/Red-Ant-Colony)
+- [Kulina](https://github.com/KulinaID)
 
 
 ## Blog Perusahaan
